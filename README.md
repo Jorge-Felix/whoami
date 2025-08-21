@@ -35,7 +35,7 @@
 ### Connect With Me
 
 - GitHub: [@bigbudda](https://github.com/bigbudda)  
-- *(You can add LinkedIn, email, or portfolio links here)*
+- Email: [jorgefelixgonzalezarias@pm.me](https://mail.google.com/mail/u/1/#inbox?compose=new)
 
 ---
 
