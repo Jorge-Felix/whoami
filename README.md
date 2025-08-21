@@ -1,64 +1,52 @@
-<div align="center" style="font-family: 'Garamond', serif; color: #3a2f1a; background-color: #fcf7ed; padding: 20px;">
+<div align="center" style="font-family: 'Times New Roman', serif; color: #2f2f2f; background-color: #faf8f2; padding: 20px; border-radius: 10px;">
 
-  <img src="https://raw.githubusercontent.com/Jorge-Felix/whoami/main/img/godandadan.jpg" alt="Sacred Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Jorge-Felix/whoami/main/img/godandadan.jpg" alt="Artistic Banner" width="100%"/>
 
-  <h1 style="margin-top: -20px; font-size: 3.2em; letter-spacing: 3px;">**Jorge Felix** <small style="font-size:0.4em;">(~bigbudda~)</small></h1>
-  <h2 style="font-style: italic; margin-bottom: 1em;">"From void-forged glyphs to university-scripted destiny"</h2>
-
+  <h1 style="margin-top: -20px; font-size: 3em; letter-spacing: 2px;">Jorge Felix (<em>bigbudda</em>)</h1>
+  <h2 style="font-style: italic; margin-bottom: 1em;">“Where art meets cybersecurity”</h2>
 </div>
 
 ---
 
 <div align="center" style="margin: 20px 0;">
-  <img src="INSERT_IMAGE_URL_1" alt="Ornate Frame 1" width="200"/>
-  <img src="INSERT_IMAGE_URL_2" alt="Ornate Frame 2" width="200"/>
-  <img src="INSERT_IMAGE_URL_3" alt="Ornate Frame 3" width="200"/>
-  <img src="INSERT_IMAGE_URL_4" alt="Ornate Frame 4" width="200"/>
+  <img src="INSERT_IMAGE_URL_1" alt="Artistic Frame 1" width="180"/>
+  <img src="INSERT_IMAGE_URL_2" alt="Artistic Frame 2" width="180"/>
+  <img src="INSERT_IMAGE_URL_3" alt="Artistic Frame 3" width="180"/>
+  <img src="INSERT_IMAGE_URL_4" alt="Artistic Frame 4" width="180"/>
 </div>
 
-<section style="font-family: 'Garamond', serif; color: #3a2f1a;">
+<section style="font-family: 'Georgia', serif; color: #2f2f2f;">
 
-###  About Me
+### About Me
 
-- **Self-taught from 2020–2023**: delving into the arcane realms of **cybersecurity**, malware analysis, and low-level reverse engineering.
-- **Formally inducted in 2024**: began university studies; now forging knowledge into structured wisdom.
-- Relentless in my quest to decode malware’s soul and unearth hidden adversary secrets.
+- **Self-taught (2020–2023):** immersing myself in cybersecurity and low-level malware analysis.
+- **University since 2024:** transitioning to structured academic learning while continuing my independent study.
+- Always exploring—reverse engineering binaries, uncovering malware behavior, and crafting detection methods.
 
-###  The Hidden Codex (Clickable Secrets)
+### Skills & Tools
 
-<details>
-<summary>Invoke the hidden mantra…</summary>
+| Discipline              | Tools & Techniques                     |
+|------------------------|----------------------------------------|
+| Reverse Engineering     | Ghidra, Cutter, objdump, signature crafting |
+| Malware Analysis        | Static & dynamic analysis methods      |
+| Threat Research         | Understanding adversarial techniques   |
+| Detection Engineering   | Writing YARA & Sigma rules, using MITRE frameworks |
 
-* I speak in disassembled opcodes.  
-* I see adversarial whispers in every imported function.  
-* I embed detection sigils in YARA and Sigma scripts.
+### Currently Exploring
 
-</details>
+- Evasion & obfuscation strategies  
+- Advanced YARA & Sigma rule crafting  
+- In-depth threat modeling via MITRE frameworks
 
-###  Esoteric Skills & Tools
-
-| Discipline              | Instruments & Tools                        |
-|------------------------|-------------------------------------------|
-| Reverse Engineering     | Ghidra, Cutter, `objdump`, signature runes |
-| Malware Analysis        | Static & dynamic dissection rituals        |
-| CTI Research            | Adversary TTPs mapping, threat intelligence |
-| Detection Engineering   | YARA spells, Sigma scrolls, MITRE frameworks |
-
-###  Initiations in Progress
-
-- Mastering malware evasion enchantments  
-- Forging detection spells via YARA & Sigma  
-- Mapping adversary archetypes with MITRE frameworks
-
-###  Sigils of Contact
+###  Connect With Me
 
 - GitHub: [@bigbudda](https://github.com/bigbudda)  
-- *(Add your email or LinkedIn here, if desired)*
+- *(Add LinkedIn, email, or portfolio link if you want)*
 
 ---
 
-<p align="center" style="font-family:'Garamond', serif; font-style: italic; margin-top: 2em;">
-  **⟡ Decoding binaries by day, transcribing glyphs by night ⟡**
+<p align="center" style="font-family:'Georgia', serif; font-style: italic; margin-top: 2em;">
+  “Transcending code with creativity and precision.”
 </p>
 
 </section>
