@@ -23,12 +23,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/Jorge-Felix/whoami/blob/main/img/olimpo.jpg" alt="Olimpo" width="90%" style="margin: 20px 0;"/>
-</div>
-
----
-
 ## 📜 Licenses & Certifications  
 
 - 🛡 **Threat Intelligence Fundamentals for SOC Analysts** – SOCRadar *(Aug 2025)*  
