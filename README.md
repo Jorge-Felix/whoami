@@ -1,47 +1,55 @@
-<div align="center">
-  <img src="https://github.com/Jorge-Felix/whoami/blob/main/img/godandadan.jpg" alt="banner" width="800"/>
-  
-  <h1>👋 Hi, I'm Jorge Felix (aka <strong>bigbudda</strong>)</h1>
-  <p>
-    Passionate about <strong>Cyber Threat Intelligence (CTI)</strong> and low-level malware analysis.  
-    I love <strong>reverse engineering</strong>, disassembling malware, and exploring how threats work under the hood.  
-  </p>
+<div align="center" style="font-family: 'Palatino Linotype', 'Garamond', serif; color: #2f2f2f;">
+
+  <img src="https://raw.githubusercontent.com/Jorge-Felix/whoami/main/img/godandadan.jpg" alt="Sacred Banner" width="100%"/>
+
+  <h1 style="margin-top: -20px; font-size: 3em; letter-spacing: 2px;">**Jorge Felix** <small style="font-size:0.5em;">(~bigbudda~)</small></h1>
+  <h2 style="font-style: italic; margin-bottom: 1em;">"From the void emerges revelation"</h2>
 </div>
 
 ---
 
-<h2>🚀 About Me</h2>
+<section style="font-family: 'Garamond', serif;">
 
-<ul>
-  <li>💻 Studying and researching in <strong>cybersecurity</strong> since <strong>2020</strong>.</li>
-  <li>🕵️‍♂️ Focused on <strong>malware reverse engineering</strong> and <strong>CTI</strong>.</li>
-  <li>🔍 Always motivated to explore adversary techniques and improve detection strategies.</li>
-</ul>
+###  About Me
 
-<h2>🛠️ Interests & Skills</h2>
+- **Devotion since 2020**: immersed in the secrets of **Cyber Threat Intelligence (CTI)** and malware deconstruction.
+- Mastering the occult arts of **reverse engineering** and low-level malware dissection.
+- A relentless seeker of hidden truths within binary realms.
 
-<ul>
-  <li>Reverse Engineering (Ghidra, Cutter, Objdump, etc.)</li>
-  <li>Malware Analysis & Threat Hunting</li>
-  <li>Cyber Threat Intelligence Research</li>
-  <li>Detection Engineering & Security Operations</li>
-</ul>
+###  Hidden Codex (Foldable Section)
 
-<h2>🌱 Currently Learning</h2>
+<details>
+<summary> Whisper the secret incantation...</summary>
 
-<ul>
-  <li>Advanced malware evasion techniques</li>
-  <li>YARA and Sigma rule development</li>
-  <li>Threat modeling frameworks (MITRE ATT&CK, Diamond Model, Kill Chain)</li>
-</ul>
+* I bear witness to malware’s soul.
+* I commune with disassembled code to unveil adversary whispers.
+* I craft detection runes and intelligence glyphs.
 
-<h2>📫 How to Reach Me</h2>
+</details>
 
-<ul>
-  <li>GitHub: <a href="https://github.com/bigbudda">@bigbudda</a></li>
-  <!-- Agrega LinkedIn, correo o Twitter si quieres -->
-</ul>
+###  Skills & Esoteric Tools
+
+| Discipline                | Instruments                            |
+|--------------------------|-----------------------------------------|
+| Reverse Engineering       | Ghidra, Cutter, `objdump`, signatures   |
+| Malware Analysis          | Static & dynamic dissection             |
+| CTI Research              | Adversary TTPs, threat landscapes       |
+| Detection Engineering     | YARA, Sigma rules, MITRE ATT&CK         |
+
+###  Initiations in Progress
+
+- Evasion & obfuscation rituals.
+- Forging detection spells with YARA & Sigma.
+- Mapping adversary lore through MITRE frameworks.
+
+###  Sigils of Contact
+
+- [GitHub — bigbudda](https://github.com/bigbudda)
+- *(Add your email, LinkedIn, or other contact here)*
 
 ---
 
-<p align="center"><em>✨ Always chasing knowledge, one binary at a time ✨</em></p>
+<p align="center" style="font-family:'Garamond', serif; font-style: italic; margin-top: 2em;">
+  **⟡ Seek knowledge in every binary glyph ⟡**
+</p>
+</section>
