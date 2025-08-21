@@ -8,12 +8,6 @@
 
 ---
 
-<div align="center" style="margin: 20px 0;">
-  <img src="INSERT_IMAGE_URL_1" alt="Decoración Visual 1" width="180"/>
-  <img src="INSERT_IMAGE_URL_2" alt="Decoración Visual 2" width="180"/>
-  <img src="INSERT_IMAGE_URL_3" alt="Decoración Visual 3" width="180"/>
-  <img src="INSERT_IMAGE_URL_4" alt="Decoración Visual 4" width="180"/>
-</div>
 
 <section style="font-family: 'Georgia', serif; color: #2f2f2f;">
 
