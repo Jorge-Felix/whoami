@@ -1,30 +1,47 @@
-# 👋 Hi, I'm Jorge Felix (aka **bigbudda**)  
-
-![Heres supposed to be an image twin]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FLa_creaci%25C3%25B3n_de_Ad%25C3%25A1n&psig=AOvVaw1V81zkN8db2SF0wC5GVUTi&ust=1755868161191000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMi34OP8m48DFQAAAAAdAAAAABAE](https://github.com/Jorge-Felix/whoami/blob/main/img/godandadan.jpg))
-
-Welcome to my GitHub!  
-
-## 🚀 About Me  
-- 💻 Passionate about **Cyber Threat Intelligence (CTI)** and low-level malware analysis.  
-- 🕵️‍♂️ I love **reverse engineering**, disassembling malware, and digging into how threats work under the hood.  
-- 📚 I've been studying and working in the field of **cybersecurity since 2020**, constantly learning and expanding my skills.  
-- 🔍 Curious by nature and always motivated to explore new attack techniques, adversary behaviors, and defense strategies.  
-
-## 🛠️ Interests & Skills  
-- Reverse Engineering (Ghidra, Cutter, Objdump, etc.)  
-- Malware Analysis & Threat Hunting  
-- Cyber Threat Intelligence Research  
-- Security Operations and Detection Engineering  
-
-## 🌱 Currently Learning  
-- Advanced malware evasion techniques  
-- YARA and Sigma rule development  
-- Threat modeling frameworks like MITRE ATT&CK, Diamond Model, and Kill Chain  
-
-## 📫 How to Reach Me  
-- GitHub: [@bigbudda]([https://github.com/bigbudda](https://github.com/Jorge-Felix))  
-- Email: [jorgefelixgonzalezarias@pm.me]([https://mail.google.com/mail/u/1/#inbox?compose=new]) 
+<div align="center">
+  <img src="https://github.com/Jorge-Felix/whoami/blob/main/img/godandadan.jpg" alt="banner" width="800"/>
+  
+  <h1>👋 Hi, I'm Jorge Felix (aka <strong>bigbudda</strong>)</h1>
+  <p>
+    Passionate about <strong>Cyber Threat Intelligence (CTI)</strong> and low-level malware analysis.  
+    I love <strong>reverse engineering</strong>, disassembling malware, and exploring how threats work under the hood.  
+  </p>
+</div>
 
 ---
 
-✨ *Always chasing knowledge, one binary at a time.*
+<h2>🚀 About Me</h2>
+
+<ul>
+  <li>💻 Studying and researching in <strong>cybersecurity</strong> since <strong>2020</strong>.</li>
+  <li>🕵️‍♂️ Focused on <strong>malware reverse engineering</strong> and <strong>CTI</strong>.</li>
+  <li>🔍 Always motivated to explore adversary techniques and improve detection strategies.</li>
+</ul>
+
+<h2>🛠️ Interests & Skills</h2>
+
+<ul>
+  <li>Reverse Engineering (Ghidra, Cutter, Objdump, etc.)</li>
+  <li>Malware Analysis & Threat Hunting</li>
+  <li>Cyber Threat Intelligence Research</li>
+  <li>Detection Engineering & Security Operations</li>
+</ul>
+
+<h2>🌱 Currently Learning</h2>
+
+<ul>
+  <li>Advanced malware evasion techniques</li>
+  <li>YARA and Sigma rule development</li>
+  <li>Threat modeling frameworks (MITRE ATT&CK, Diamond Model, Kill Chain)</li>
+</ul>
+
+<h2>📫 How to Reach Me</h2>
+
+<ul>
+  <li>GitHub: <a href="https://github.com/bigbudda">@bigbudda</a></li>
+  <!-- Agrega LinkedIn, correo o Twitter si quieres -->
+</ul>
+
+---
+
+<p align="center"><em>✨ Always chasing knowledge, one binary at a time ✨</em></p>
