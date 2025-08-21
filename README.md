@@ -1,55 +1,64 @@
-<div align="center" style="font-family: 'Palatino Linotype', 'Garamond', serif; color: #2f2f2f;">
+<div align="center" style="font-family: 'Garamond', serif; color: #3a2f1a; background-color: #fcf7ed; padding: 20px;">
 
   <img src="https://raw.githubusercontent.com/Jorge-Felix/whoami/main/img/godandadan.jpg" alt="Sacred Banner" width="100%"/>
 
-  <h1 style="margin-top: -20px; font-size: 3em; letter-spacing: 2px;">**Jorge Felix** <small style="font-size:0.5em;">(~bigbudda~)</small></h1>
-  <h2 style="font-style: italic; margin-bottom: 1em;">"From the void emerges revelation"</h2>
+  <h1 style="margin-top: -20px; font-size: 3.2em; letter-spacing: 3px;">**Jorge Felix** <small style="font-size:0.4em;">(~bigbudda~)</small></h1>
+  <h2 style="font-style: italic; margin-bottom: 1em;">"From void-forged glyphs to university-scripted destiny"</h2>
+
 </div>
 
 ---
 
-<section style="font-family: 'Garamond', serif;">
+<div align="center" style="margin: 20px 0;">
+  <img src="INSERT_IMAGE_URL_1" alt="Ornate Frame 1" width="200"/>
+  <img src="INSERT_IMAGE_URL_2" alt="Ornate Frame 2" width="200"/>
+  <img src="INSERT_IMAGE_URL_3" alt="Ornate Frame 3" width="200"/>
+  <img src="INSERT_IMAGE_URL_4" alt="Ornate Frame 4" width="200"/>
+</div>
+
+<section style="font-family: 'Garamond', serif; color: #3a2f1a;">
 
 ###  About Me
 
-- **Devotion since 2020**: immersed in the secrets of **Cyber Threat Intelligence (CTI)** and malware deconstruction.
-- Mastering the occult arts of **reverse engineering** and low-level malware dissection.
-- A relentless seeker of hidden truths within binary realms.
+- **Self-taught from 2020–2023**: delving into the arcane realms of **cybersecurity**, malware analysis, and low-level reverse engineering.
+- **Formally inducted in 2024**: began university studies; now forging knowledge into structured wisdom.
+- Relentless in my quest to decode malware’s soul and unearth hidden adversary secrets.
 
-###  Hidden Codex (Foldable Section)
+###  The Hidden Codex (Clickable Secrets)
 
 <details>
-<summary> Whisper the secret incantation...</summary>
+<summary>Invoke the hidden mantra…</summary>
 
-* I bear witness to malware’s soul.
-* I commune with disassembled code to unveil adversary whispers.
-* I craft detection runes and intelligence glyphs.
+* I speak in disassembled opcodes.  
+* I see adversarial whispers in every imported function.  
+* I embed detection sigils in YARA and Sigma scripts.
 
 </details>
 
-###  Skills & Esoteric Tools
+###  Esoteric Skills & Tools
 
-| Discipline                | Instruments                            |
-|--------------------------|-----------------------------------------|
-| Reverse Engineering       | Ghidra, Cutter, `objdump`, signatures   |
-| Malware Analysis          | Static & dynamic dissection             |
-| CTI Research              | Adversary TTPs, threat landscapes       |
-| Detection Engineering     | YARA, Sigma rules, MITRE ATT&CK         |
+| Discipline              | Instruments & Tools                        |
+|------------------------|-------------------------------------------|
+| Reverse Engineering     | Ghidra, Cutter, `objdump`, signature runes |
+| Malware Analysis        | Static & dynamic dissection rituals        |
+| CTI Research            | Adversary TTPs mapping, threat intelligence |
+| Detection Engineering   | YARA spells, Sigma scrolls, MITRE frameworks |
 
 ###  Initiations in Progress
 
-- Evasion & obfuscation rituals.
-- Forging detection spells with YARA & Sigma.
-- Mapping adversary lore through MITRE frameworks.
+- Mastering malware evasion enchantments  
+- Forging detection spells via YARA & Sigma  
+- Mapping adversary archetypes with MITRE frameworks
 
 ###  Sigils of Contact
 
-- [GitHub — bigbudda](https://github.com/bigbudda)
-- *(Add your email, LinkedIn, or other contact here)*
+- GitHub: [@bigbudda](https://github.com/bigbudda)  
+- *(Add your email or LinkedIn here, if desired)*
 
 ---
 
 <p align="center" style="font-family:'Garamond', serif; font-style: italic; margin-top: 2em;">
-  **⟡ Seek knowledge in every binary glyph ⟡**
+  **⟡ Decoding binaries by day, transcribing glyphs by night ⟡**
 </p>
+
 </section>
