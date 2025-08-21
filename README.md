@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jorge Felix (aka **bigbudda**)  
 
-![Heres supposed to be an image twin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FLa_creaci%25C3%25B3n_de_Ad%25C3%25A1n&psig=AOvVaw1V81zkN8db2SF0wC5GVUTi&ust=1755868161191000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMi34OP8m48DFQAAAAAdAAAAABAE)
+![Heres supposed to be an image twin]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FLa_creaci%25C3%25B3n_de_Ad%25C3%25A1n&psig=AOvVaw1V81zkN8db2SF0wC5GVUTi&ust=1755868161191000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMi34OP8m48DFQAAAAAdAAAAABAE](https://github.com/Jorge-Felix/whoami/blob/main/img/godandadan.jpg))
 
 Welcome to my GitHub!  
 
